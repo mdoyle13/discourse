@@ -79,8 +79,8 @@ If you do already have RVM installed, this should make sure everything is up to 
 Either way, you'll now want to install the 'turbo' version of Ruby 2.0.
 
     # Now, install Ruby
-    rvm install 2.0.0-turbo
-    rvm use 2.0.0-turbo --default # Careful with this if you're already developing Ruby
+    rvm install 2.3.4-turbo
+    rvm use 2.3.4 --default # Careful with this if you're already developing Ruby
 
 ## Git
 
